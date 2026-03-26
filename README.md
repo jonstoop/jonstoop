@@ -1,7 +1,4 @@
-
-
-<!--
-**jonstoop/jonstoop** is a ✨## Jonathan Stoop
+## Jonathan Stoop
 
 Football analyst. Product content manager. Systems thinker.
 
@@ -13,5 +10,4 @@ Currently working on: building a public football analysis practice.
 
 ---
 
-Find me on [X](https://x.com/jonathanstoop) · [LinkedIn](https://linkedin.com/in/jonathanstoop) _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Find me on [X](https://x.com/jonathanstoop) · [LinkedIn](https://linkedin.com/in/jonathanstoop)
