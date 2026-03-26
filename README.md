@@ -1,16 +1,17 @@
-## Hi there 👋
+
 
 <!--
-**jonstoop/jonstoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jonstoop/jonstoop** is a ✨## Jonathan Stoop
 
-Here are some ideas to get you started:
+Football analyst. Product content manager. Systems thinker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write about football with an analytical lens — tactics, structures, 
+the patterns beneath the game. Alongside that, I build tools and 
+workflows at the intersection of AI and knowledge management.
+
+Currently working on: building a public football analysis practice.
+
+---
+
+Find me on [X](https://x.com/jonathanstoop) · [LinkedIn](https://linkedin.com/in/jonathanstoop) _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
